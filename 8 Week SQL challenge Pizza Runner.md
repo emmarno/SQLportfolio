@@ -1,3 +1,7 @@
+# Week 2 of 8
+
+### Challenge 2 - Pizza Runner: Danny recruits runners to deliver pizza, using a mobile app he built. He understands the importance of data and seeks help cleaning and analysing it to improve operations.
+
 ```python
 from sqlalchemy import create_engine
 %reload_ext sql
